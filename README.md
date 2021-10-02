@@ -1,1 +1,5 @@
-Metadata of any NFTs that I happen to create.
+# Gav's NFT Metadata
+
+|Asset ID|Name|Type|
+|---|---|---|
+|0|Mamacita|Image|
